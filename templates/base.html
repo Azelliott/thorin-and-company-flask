@@ -7,7 +7,9 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='vendor/bootstrap/css/bootstrap.min.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/clean-blog.min.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" type="text/css">
-    <title>Hello Flask</title>
+	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+    <title>Thorin and Company</title>
 </head>
 <body>
 
@@ -28,9 +30,6 @@
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="{{ url_for('contact') }}">Contact Us</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="{{ url_for('careers') }}">Careers</a>
 					</li>
 				</ul>
 			</div>
