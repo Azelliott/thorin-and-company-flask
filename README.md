@@ -20,6 +20,13 @@ It is a small wiki providing info on Thorin Oakenshield and a group of thirteen 
 * Flask framework
 * Jinja templating engine
 
-## Screenshot
+## Screenshots
 
+Home
 ![ScreenShot](static/img/screenshots/home.png)
+
+About
+![ScreenShot](static/img/screenshots/about.png)
+
+Contact form
+![ScreenShot](static/img/screenshots/contact.png)
