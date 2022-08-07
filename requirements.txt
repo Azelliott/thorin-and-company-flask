@@ -4,5 +4,5 @@ itsdangerous==2.1.2
 Jinja2==3.1.2
 libcomps==0.1.15.post1
 MarkupSafe==2.1.1
-rpm==4.17.1
+rpm==0.0.3.2
 Werkzeug==2.2.1
